@@ -1,0 +1,9 @@
+{
+  "contest": 105,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "Users can transfer tokens to themselves to set cooldowns to 0, and then increase the lock time of other users' tokens when transferring to other users",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2022-03-paladin-findings/issues/6"
+}
