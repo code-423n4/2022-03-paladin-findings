@@ -1,0 +1,9 @@
+{
+  "contest": 105,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "cooldown is set to 0 when the user sends all tokens to himself.",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2022-03-paladin-findings/issues/8"
+}
