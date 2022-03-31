@@ -1,0 +1,9 @@
+{
+  "contest": 105,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "2",
+  "title": "Users at UNSTAKE_PERIOD can assist other users in unstaking tokens.",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2022-03-paladin-findings/issues/7"
+}
