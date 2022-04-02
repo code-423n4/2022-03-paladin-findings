@@ -1,0 +1,9 @@
+{
+  "contest": 105,
+  "handle": "Picodes",
+  "address": "0x9843C8a8263308A309BfC3C2d1c308126D8E754D",
+  "risk": "3",
+  "title": "System could be wrapped and made useless without contract whitelisting",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2022-03-paladin-findings/issues/77"
+}
