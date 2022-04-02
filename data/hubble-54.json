@@ -1,0 +1,9 @@
+{
+  "contest": 105,
+  "handle": "hubble",
+  "address": "0xc343235Ec8143EAB788d706165D50082833FF137",
+  "risk": "2",
+  "title": "Function cooldown() is not protected when protocol in emergency mode",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-03-paladin-findings/issues/54"
+}
