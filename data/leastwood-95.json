@@ -1,0 +1,9 @@
+{
+  "contest": 105,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "Increasing the Lock Amount on an Expired Lock Will Cause Users to Miss Out on Rewards",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2022-03-paladin-findings/issues/95"
+}
